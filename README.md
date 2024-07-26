@@ -1,4 +1,4 @@
-#### Olá me chamo Gladiston
+#### Hello, my name is Gladiston
 
 Future Full Stack Developer
 
